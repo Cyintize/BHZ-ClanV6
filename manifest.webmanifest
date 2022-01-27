@@ -1,0 +1,6 @@
+{
+  "icons": [
+    { "src": "img/BZ_Logo_Fixed.png", "type": "image/png", "sizes": "250x250" },
+    { "src": "img/BZ_Logo_Fixed.png", "type": "image/png", "sizes": "550x550" }
+  ]
+}
